@@ -11,7 +11,7 @@ CI_2024_Project-work/
 ├── src/        # Contains main code  
 ├── data/       # Contains input datasets
 ├── results/    # Includes plots and results
-├── s331156.py  # Symbolic functions found for each input dataset
+├── s332155.py  # Symbolic functions found for each input dataset
 ├── README.md   # Project report
 ```
 
@@ -360,6 +360,6 @@ Best program of fold 5°: ((((tanh((x5 + 2.95)) + ((sinh(x3) + (-3.91 + ((-0.39 
 
 ## Collaborations
 
-This project was developed collaboratively with [Gabriele Raffaele](https://github.com/Gabriele-Raffaele) and [Giuseppe Vacante](https://github.com/Peppe2212).
+This project was developed collaboratively with [Gabriele Raffaele](https://github.com/Gabriele-Raffaele) and [Leone Fabio](https://github.com/LeoneFabio).
 
 ---
